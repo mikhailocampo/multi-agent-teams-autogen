@@ -1,0 +1,6 @@
+Stock Trends and Insights:
+The stock price of META has increased by 8.14% over the last 3 months.
+The stock price of AMZN has increased by 13.81% over the last 3 months.
+The stock price of AAPL has decreased by -7.73% over the last 3 months.
+The stock price of NFLX has decreased by -0.60% over the last 3 months.
+The stock price of GOOGL has increased by 9.70% over the last 3 months.
